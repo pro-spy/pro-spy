@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-pro-spy/pro-spy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pro-spy/pro-spy is a ✨ special ✨ repository because its `README.sp` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
